@@ -29,7 +29,8 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "homepage": "https://github.com/hansgoed/n8n-openapi-node#readme",
   "devDependencies": {
